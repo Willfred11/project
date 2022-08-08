@@ -7,6 +7,7 @@ body {
     color: #241623;
     background: #eef2f4;
     display: grid;
+   
 
   }
   .OOP{
@@ -16,15 +17,6 @@ body {
     color: #2a372ca1;
     display: flex;
   }
-  i.fa-solid.fa-aperture{
-    font-weight: 900;
-    color: red;
-    font-display: 50px;
-    align-items: center;
-    height: 50px;
-    width: 50px;
-  }
-  
   h1 {
     font-weight: 900;
     font-size: 2.7rem;
